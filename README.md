@@ -5,9 +5,9 @@ buat file dengan format nama nama.txt
 
 
 ```
-nama : 
-nim : 
-cita cita :
+nama : Nikita Putri
+nim : 0110221118
+cita cita : Menjadi orang sukses
 ```
 
 lalu buat pull request ke repo ini
